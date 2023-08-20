@@ -1,0 +1,13 @@
+.main{
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  min-height: 80vh;
+}
+.title{
+  color:#fff;
+  margin: 1.5rem 0;
+  font-weight: bold;
+}
